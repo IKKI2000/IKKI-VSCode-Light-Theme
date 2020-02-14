@@ -1,2 +1,2 @@
 # IKKI-VSCode-Light-Theme
-Visual Studio Code Eye Protection Light Theme Powered by IKKI~
+🎨 Eye Protection Light Theme for Visual Studio Code Powered by IKKI~
