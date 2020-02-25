@@ -1,0 +1,21 @@
+{
+    "name": "ikki-vscode-light-theme",
+    "displayName": "IKKI VSCode Light Theme",
+    "description": "Eye Protection Light Theme for Visual Studio Code Powered by IKKI~",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IKKI VSCode Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/ikki-vscode-light-theme-color-theme.json"
+            }
+        ]
+    }
+}
