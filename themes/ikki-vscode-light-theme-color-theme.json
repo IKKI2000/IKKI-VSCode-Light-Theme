@@ -11,6 +11,13 @@
 		"icon.foreground": "#1890ff",
 		"window.activeBorder": "#1890ff",
 		"window.inactiveBorder": "#cccccc",
+		"textBlockQuote.background": "#fdf3bd",
+		"textBlockQuote.border": "#f7d82a",
+		"textCodeBlock.background": "#dddddd",
+		"textLink.activeForeground": "#69c0ff",
+		"textLink.foreground": "#1890ff",
+		"textPreformat.foreground": "#37bc9b",
+		"textSeparator.foreground": "#cccccc",
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a"
 	},
