@@ -2,8 +2,15 @@
 	"name": "IKKI-VSCode-Light-Theme",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333"
+		"focusBorder": "#1890ff",
+		"foreground": "#333333",
+		"widget.shadow": "#cccccccc",
+		"selection.background": "#69c0ff",
+		"descriptionForeground": "#999999",
+		"errorForeground": "#da4453",
+		"icon.foreground": "#1890ff",
+		"editor.background": "#fffcf4",
+		"editor.foreground": "#8d634a"
 	},
 	"tokenColors": [
 		{
