@@ -9,6 +9,8 @@
 		"descriptionForeground": "#999999",
 		"errorForeground": "#da4453",
 		"icon.foreground": "#1890ff",
+		"window.activeBorder": "#1890ff",
+		"window.inactiveBorder": "#cccccc",
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a"
 	},
