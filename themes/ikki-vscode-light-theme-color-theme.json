@@ -18,6 +18,12 @@
 		"textLink.foreground": "#1890ff",
 		"textPreformat.foreground": "#37bc9b",
 		"textSeparator.foreground": "#cccccc",
+		"button.background": "#1890ff",
+		"button.foreground": "#ffffff",
+		"button.hoverBackground": "#69c0ff",
+		"checkbox.background": "#ffffff",
+		"checkbox.foreground": "#1890ff",
+		"checkbox.border": "#cccccc",
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a"
 	},
