@@ -24,6 +24,10 @@
 		"checkbox.background": "#ffffff",
 		"checkbox.foreground": "#1890ff",
 		"checkbox.border": "#cccccc",
+		"dropdown.background": "#ffffff",
+		"dropdown.listBackground": "#ffffff",
+		"dropdown.border": "#cccccc",
+		"dropdown.foreground": "#333333",
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a"
 	},
