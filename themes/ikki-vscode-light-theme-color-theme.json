@@ -43,6 +43,10 @@
 		"inputValidation.warningBackground": "#fdf3bd",
 		"inputValidation.warningForeground": "#9e880b",
 		"inputValidation.warningBorder": "#f7d82a",
+		"scrollbar.shadow": "#1890ff",
+		"scrollbarSlider.activeBackground": "#1890ff",
+		"scrollbarSlider.background": "#cccccc",
+		"scrollbarSlider.hoverBackground": "#69c0ff",
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a"
 	},
