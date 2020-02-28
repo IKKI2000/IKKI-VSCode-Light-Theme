@@ -47,6 +47,8 @@
 		"scrollbarSlider.activeBackground": "#1890ff",
 		"scrollbarSlider.background": "#cccccc",
 		"scrollbarSlider.hoverBackground": "#69c0ff",
+		"badge.foreground": "#ffffff",
+		"badge.background": "#1890ff",
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a"
 	},
