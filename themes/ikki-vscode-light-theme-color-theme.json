@@ -88,6 +88,13 @@
 		"sideBarSectionHeader.background": "#fffcf4",
 		"sideBarSectionHeader.foreground": "#8d634a",
 		"sideBarSectionHeader.border": "#eeeeee",
+		"minimap.findMatchHighlight": "#bede0b",
+		"minimap.selectionHighlight": "#84cef8",
+		"minimap.errorHighlight": "#faa685",
+		"minimap.warningHighlight": "#f7d82a",
+		"minimapGutter.addedBackground": "#bede0b",
+		"minimapGutter.modifiedBackground": "#84cef8",
+		"minimapGutter.deletedBackground": "#faa685",
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a"
 	},
