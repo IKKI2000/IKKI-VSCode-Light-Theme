@@ -34,6 +34,7 @@
 		"input.placeholderForeground": "#cccccc",
 		"inputOption.activeBackground": "#e4eeaa",
 		"inputOption.activeBorder": "#bede0b",
+		"inputOption.activeForeground": "#809507",
 		"inputValidation.errorBackground": "#fddacc",
 		"inputValidation.errorForeground": "#a64515",
 		"inputValidation.errorBorder": "#faa685",
