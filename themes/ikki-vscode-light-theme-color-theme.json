@@ -71,6 +71,7 @@
 		"list.filterMatchBackground": "#7fdce6",
 		"list.filterMatchBorder": "#f35800",
 		"tree.indentGuidesStroke": "#dddddd",
+		"list.deemphasizedForeground": "#8e8e90",
 		"activityBar.background": "#fffcf4",
 		"activityBar.dropBackground": "#ffffff",
 		"activityBar.foreground": "#8d634a",
