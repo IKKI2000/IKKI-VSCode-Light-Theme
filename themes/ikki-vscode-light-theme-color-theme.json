@@ -85,7 +85,7 @@
 		"sideBar.background": "#fffae8",
 		"sideBar.foreground": "#8d634a",
 		"sideBar.border": "#eeeeee",
-		"sideBar.dropBackground": "#ffffff",
+		"sideBar.dropBackground": "#ffffff88",
 		"sideBarTitle.foreground": "#8d634a",
 		"sideBarSectionHeader.background": "#fffcf4",
 		"sideBarSectionHeader.foreground": "#8d634a",
