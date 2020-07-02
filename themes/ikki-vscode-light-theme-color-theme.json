@@ -207,7 +207,13 @@
 		"editorGutter.addedBackground": "#bede0b",
 		"editorGutter.deletedBackground": "#faa685",
 		"editorGutter.commentRangeForeground": "#cccccc",
-		"editorGutter.foldingControlForeground": "#dddddd"
+		"editorGutter.foldingControlForeground": "#dddddd",
+		"diffEditor.insertedTextBackground": "#e4eeaacc",
+		"diffEditor.insertedTextBorder": "#e4eeaa",
+		"diffEditor.removedTextBackground": "#fddacccc",
+		"diffEditor.removedTextBorder": "#fddacc",
+		"diffEditor.border": "#eeeeee",
+		"diffEditor.diagonalFill": "#cccccc88"
 	},
 	"tokenColors": [
 		{
