@@ -246,7 +246,17 @@
 		"peekViewResult.selectionForeground": "#8d634a",
 		"peekViewTitle.background": "#8d634a33",
 		"peekViewTitleDescription.foreground": "#8d634a",
-		"peekViewTitleLabel.foreground": "#8d634a"
+		"peekViewTitleLabel.foreground": "#8d634a",
+		"merge.currentHeaderBackground": "#00c2d1cc",
+		"merge.currentContentBackground": "#00c2d166",
+		"merge.incomingHeaderBackground": "#00b5e9cc",
+		"merge.incomingContentBackground": "#00b5e966",
+		"merge.border": "#8d634a33",
+		"merge.commonContentBackground": "#cccccc66",
+		"merge.commonHeaderBackground": "#cccccccc",
+		"editorOverviewRuler.currentContentForeground": "#00c2d1",
+		"editorOverviewRuler.incomingContentForeground": "#00b5e9",
+		"editorOverviewRuler.commonContentForeground": "#cccccc"
 	},
 	"tokenColors": [
 		{
