@@ -269,7 +269,23 @@
 		"panelSectionHeader.background": "#fffae8",
 		"panelSectionHeader.foreground": "#8d634a",
 		"panelSectionHeader.border": "#8d634a33",
-		"imagePreview.border": "#cccccc"
+		"imagePreview.border": "#cccccc",
+		"statusBar.background": "#00c2d1",
+		"statusBar.foreground": "#ffffff",
+		"statusBar.border": "#00c2d1",
+		"statusBar.debuggingBackground": "#00b5e9",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.debuggingBorder": "#00b5e9",
+		"statusBar.noFolderForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#8d634a",
+		"statusBar.noFolderBorder": "#8d634a",
+		"statusBarItem.activeBackground": "#00000033",
+		"statusBarItem.hoverBackground": "#ffffff33",
+		"statusBarItem.prominentForeground": "#ffffff",
+		"statusBarItem.prominentBackground": "#00000066",
+		"statusBarItem.prominentHoverBackground": "#00000055",
+		"statusBarItem.remoteBackground": "#f35800",
+		"statusBarItem.remoteForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
