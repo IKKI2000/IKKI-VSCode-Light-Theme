@@ -290,7 +290,17 @@
 		"titleBar.activeForeground": "#333333",
 		"titleBar.inactiveBackground": "#eeeeee",
 		"titleBar.inactiveForeground": "#999999",
-		"titleBar.border": "#d9b6ac"
+		"titleBar.border": "#d9b6ac",
+		"menubar.selectionForeground": "#ffffff",
+		"menubar.selectionBackground": "#00c2d1",
+		"menubar.selectionBorder": "#00c2d1",
+		"menu.foreground": "#333333",
+		"menu.background": "#ffffff",
+		"menu.selectionForeground": "#ffffff",
+		"menu.selectionBackground": "#00c2d1",
+		"menu.selectionBorder": "#00c2d1",
+		"menu.separatorBackground": "#cccccc",
+		"menu.border": "#ffffff"
 	},
 	"tokenColors": [
 		{
