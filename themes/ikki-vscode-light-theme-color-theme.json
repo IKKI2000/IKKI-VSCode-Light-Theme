@@ -285,7 +285,12 @@
 		"statusBarItem.prominentBackground": "#00000066",
 		"statusBarItem.prominentHoverBackground": "#00000055",
 		"statusBarItem.remoteBackground": "#f35800",
-		"statusBarItem.remoteForeground": "#ffffff"
+		"statusBarItem.remoteForeground": "#ffffff",
+		"titleBar.activeBackground": "#fffefa",
+		"titleBar.activeForeground": "#333333",
+		"titleBar.inactiveBackground": "#eeeeee",
+		"titleBar.inactiveForeground": "#999999",
+		"titleBar.border": "#d9b6ac"
 	},
 	"tokenColors": [
 		{
