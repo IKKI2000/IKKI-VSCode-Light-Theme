@@ -256,7 +256,20 @@
 		"merge.commonHeaderBackground": "#cccccccc",
 		"editorOverviewRuler.currentContentForeground": "#00c2d1",
 		"editorOverviewRuler.incomingContentForeground": "#00b5e9",
-		"editorOverviewRuler.commonContentForeground": "#cccccc"
+		"editorOverviewRuler.commonContentForeground": "#cccccc",
+		"panel.background": "#fffae8",
+		"panel.border": "#eeeeee",
+		"panel.dropBorder": "#00c2d1",
+		"panelTitle.activeBorder": "#00c2d1",
+		"panelTitle.activeForeground": "#8d634a",
+		"panelTitle.inactiveForeground": "#c39b8f",
+		"panelInput.border": "#cccccc",
+		"panelSection.border": "#eeeeee",
+		"panelSection.dropBackground": "#ffffffcc",
+		"panelSectionHeader.background": "#fffae8",
+		"panelSectionHeader.foreground": "#8d634a",
+		"panelSectionHeader.border": "#8d634a33",
+		"imagePreview.border": "#cccccc"
 	},
 	"tokenColors": [
 		{
