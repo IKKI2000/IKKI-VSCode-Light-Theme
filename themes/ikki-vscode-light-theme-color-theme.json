@@ -311,7 +311,12 @@
 		"notificationLink.foreground": "#f35800",
 		"notificationsErrorIcon.foreground": "#a64515",
 		"notificationsWarningIcon.foreground": "#9e880b",
-		"notificationsInfoIcon.foreground": "#458eb8"
+		"notificationsInfoIcon.foreground": "#458eb8",
+		"extensionButton.prominentForeground": "#ffffff",
+		"extensionButton.prominentBackground": "#00c2d1",
+		"extensionButton.prominentHoverBackground": "#f35800",
+		"extensionBadge.remoteBackground": "#00c2d1",
+		"extensionBadge.remoteForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
