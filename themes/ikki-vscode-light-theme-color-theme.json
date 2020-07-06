@@ -300,7 +300,18 @@
 		"menu.selectionBackground": "#00c2d1",
 		"menu.selectionBorder": "#00c2d1",
 		"menu.separatorBackground": "#cccccc",
-		"menu.border": "#ffffff"
+		"menu.border": "#ffffff",
+		"notificationCenter.border": "#d9b6ac",
+		"notificationCenterHeader.foreground": "#8d634a",
+		"notificationCenterHeader.background": "#fffcf4",
+		"notificationToast.border": "#d9b6ac",
+		"notifications.foreground": "#333333",
+		"notifications.background": "#ffffff",
+		"notifications.border": "#cccccc",
+		"notificationLink.foreground": "#f35800",
+		"notificationsErrorIcon.foreground": "#a64515",
+		"notificationsWarningIcon.foreground": "#9e880b",
+		"notificationsInfoIcon.foreground": "#458eb8"
 	},
 	"tokenColors": [
 		{
