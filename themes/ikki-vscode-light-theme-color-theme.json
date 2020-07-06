@@ -316,7 +316,12 @@
 		"extensionButton.prominentBackground": "#00c2d1",
 		"extensionButton.prominentHoverBackground": "#f35800",
 		"extensionBadge.remoteBackground": "#00c2d1",
-		"extensionBadge.remoteForeground": "#ffffff"
+		"extensionBadge.remoteForeground": "#ffffff",
+		"pickerGroup.border": "#d9b6ac",
+		"pickerGroup.foreground": "#8d634a",
+		"quickInput.background": "#fffae8",
+		"quickInput.foreground": "#8d634a",
+		"quickInputTitle.background": "#fffae8"
 	},
 	"tokenColors": [
 		{
