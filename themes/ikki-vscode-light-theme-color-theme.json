@@ -358,7 +358,11 @@
 		"debugTokenExpression.string": "#ff9800",
 		"debugTokenExpression.boolean": "#f6bb42",
 		"debugTokenExpression.number": "#da4453",
-		"debugTokenExpression.error": "#a64515"
+		"debugTokenExpression.error": "#a64515",
+		"welcomePage.background": "#fffcf4",
+		"welcomePage.buttonBackground": "#8d634a33",
+		"welcomePage.buttonHoverBackground": "#8d634a22",
+		"walkThrough.embeddedEditorBackground": "#fffcf4"
 	},
 	"tokenColors": [
 		{
