@@ -80,7 +80,7 @@
 		"activityBarBadge.background": "#00c2d1",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBar.activeBorder": "#00c2d1",
-		"activityBar.activeBackground": "#fffae8",
+		"activityBar.activeBackground": "#8d634a33",
 		"activityBar.activeFocusBorder": "#7fdce6",
 		"sideBar.background": "#fffae8",
 		"sideBar.foreground": "#8d634a",
@@ -362,7 +362,14 @@
 		"welcomePage.background": "#fffcf4",
 		"welcomePage.buttonBackground": "#8d634a33",
 		"welcomePage.buttonHoverBackground": "#8d634a22",
-		"walkThrough.embeddedEditorBackground": "#fffcf4"
+		"walkThrough.embeddedEditorBackground": "#fffcf4",
+		"gitDecoration.addedResourceForeground": "#bede0b",
+		"gitDecoration.modifiedResourceForeground": "#00b5e9",
+		"gitDecoration.deletedResourceForeground": "#faa685",
+		"gitDecoration.untrackedResourceForeground": "#f7d82a",
+		"gitDecoration.ignoredResourceForeground": "#888888",
+		"gitDecoration.conflictingResourceForeground": "#967adc",
+		"gitDecoration.submoduleResourceForeground": "#84cef8"
 	},
 	"tokenColors": [
 		{
