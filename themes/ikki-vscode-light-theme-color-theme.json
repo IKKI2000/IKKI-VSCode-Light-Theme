@@ -389,7 +389,11 @@
 		"breadcrumb.background": "#fffcf4",
 		"breadcrumb.focusForeground": "#f35800",
 		"breadcrumb.activeSelectionForeground": "#f35800",
-		"breadcrumbPicker.background": "#eeeeee"
+		"breadcrumbPicker.background": "#eeeeee",
+		"editor.snippetTabstopHighlightBackground": "#ffe1c4",
+		"editor.snippetTabstopHighlightBorder": "#f3580066",
+		"editor.snippetFinalTabstopHighlightBackground": "#ffe1c4",
+		"editor.snippetFinalTabstopHighlightBorder": "#f3580066"
 	},
 	"tokenColors": [
 		{
