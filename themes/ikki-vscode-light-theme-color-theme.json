@@ -430,7 +430,27 @@
 		"symbolIcon.textForeground": "#434a54",
 		"symbolIcon.typeParameterForeground": "#d770ad",
 		"symbolIcon.unitForeground": "#8cc152",
-		"symbolIcon.variableForeground": "#37bc9b"
+		"symbolIcon.variableForeground": "#37bc9b",
+		"debugIcon.breakpointForeground": "#f35800",
+		"debugIcon.breakpointDisabledForeground": "#cccccc",
+		"debugIcon.breakpointUnverifiedForeground": "#cccccc",
+		"debugIcon.breakpointCurrentStackframeForeground": "#f7d82a",
+		"debugIcon.breakpointStackframeForeground": "#bede0b",
+		"debugIcon.startForeground": "#809507",
+		"debugIcon.pauseForeground": "#458eb8",
+		"debugIcon.stopForeground": "#a64515",
+		"debugIcon.disconnectForeground": "#a64515",
+		"debugIcon.restartForeground": "#809507",
+		"debugIcon.stepOverForeground": "#458eb8",
+		"debugIcon.stepIntoForeground": "#458eb8",
+		"debugIcon.stepOutForeground": "#458eb8",
+		"debugIcon.continueForeground": "#458eb8",
+		"debugIcon.stepBackForeground": "#458eb8",
+		"debugConsole.infoForeground": "#458eb8",
+		"debugConsole.warningForeground": "#9e880b",
+		"debugConsole.errorForeground": "#a64515",
+		"debugConsole.sourceForeground": "#809507",
+		"debugConsoleInputIcon.foreground": "#8d634a"
 	},
 	"tokenColors": [
 		{
