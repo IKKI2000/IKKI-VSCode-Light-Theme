@@ -450,7 +450,23 @@
 		"debugConsole.warningForeground": "#9e880b",
 		"debugConsole.errorForeground": "#a64515",
 		"debugConsole.sourceForeground": "#809507",
-		"debugConsoleInputIcon.foreground": "#8d634a"
+		"debugConsoleInputIcon.foreground": "#8d634a",
+		"notebook.cellBorderColor": "#d9b6ac",
+		"notebook.focusedEditorBorder": "#00c2d1",
+		"notebookStatusSuccessIcon.foreground": "#809507",
+		"notebookStatusErrorIcon.foreground": "#a64515",
+		"notebookStatusRunningIcon.foreground": "#9e880b",
+		"notebook.outputContainerBackgroundColor": "#fffae8",
+		"notebook.cellToolbarSeperator": "#cccccccc",
+		"notebook.focusedCellBackground": "#8d634a33",
+		"notebook.cellHoverBackground": "#8d634a22",
+		"notebook.focusedCellBorder": "#f35800",
+		"notebook.focusedCellShadow": "#8d634a",
+		"notebook.cellStatusBarItemHoverBackground": "#eeeeee",
+		"notebook.cellInsertionIndicator": "#00c2d1",
+		"notebookScrollbarSlider.background": "#cccccc",
+		"notebookScrollbarSlider.hoverBackground": "#7fdce6",
+		"notebookScrollbarSlider.activeBackground": "#00c2d1"
 	},
 	"tokenColors": [
 		{
