@@ -512,6 +512,15 @@
 			}
 		},
 		{
+			"scope": [
+				"keyword.operator",
+				"markup.inline.raw"
+			],
+			"settings": {
+				"foreground": "#aab2bd"
+			}
+		},
+		{
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#8cc152"
@@ -555,15 +564,6 @@
 			],
 			"settings": {
 				"foreground": "#434a54"
-			}
-		},
-		{
-			"scope": [
-				"keyword.operator",
-				"markup.inline.raw"
-			],
-			"settings": {
-				"foreground": "#aab2bd"
 			}
 		},
 		{
