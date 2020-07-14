@@ -1,15 +1,21 @@
 {
     "name": "ikki-vscode-light-theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.42.0"
-    },
-    "license": "MIT",
+    "displayName": "IKKI VSCode Light Theme",
+    "description": "Eye Protection Light Theme for Visual Studio Code Powered by IKKI~",
+    "version": "0.1.0",
+    "publisher": "IKKI",
     "author": {
         "name": "IKKI"
     },
-    "displayName": "IKKI VSCode Light Theme",
-    "description": "Eye Protection Light Theme for Visual Studio Code Powered by IKKI~",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+		"color": "#fffcf4",
+		"theme": "light"
+	},
     "categories": [
         "Themes"
     ],
@@ -20,10 +26,15 @@
         "eye",
         "protection"
     ],
-    "galleryBanner": {
-		"color": "#fffcf4",
-		"theme": "light"
+    "bugs": {
+        "url": "https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/issues",
+		"email": "ikki2002@qq.com"
 	},
+    "homepage": "https://github.com/IKKI2000/IKKI-VSCode-Light-Theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IKKI2000/IKKI-VSCode-Light-Theme.git"
+    },
     "contributes": {
         "themes": [
             {
@@ -32,11 +43,5 @@
                 "path": "./themes/ikki-vscode-light-theme-color-theme.json"
             }
         ]
-    },
-    "icon": "images/icon.png",
-    "homepage": "https://github.com/IKKI2000/IKKI-VSCode-Light-Theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/IKKI2000/IKKI-VSCode-Light-Theme.git"
     }
 }
