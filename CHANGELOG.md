@@ -4,6 +4,78 @@ All notable changes to the "IKKI-VSCode-Light-Theme" extension will be documente
 See [commits](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/commits/master) for more details.
 See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for workbench colors list.
 
+## [v0.2.0](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/releases/tag/0.2.0)
+
+### -= Workbench colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* Base colors
+    * widget.shadow
+    * selection.background
+    * descriptionForeground
+    * errorForeground
+* Window border
+    * window.inactiveBorder
+* Text colors
+    * textCodeBlock.background
+    * textLink.activeForeground
+    * textSeparator.foreground
+* Button control
+    * button.hoverBackground
+    * button.secondaryHoverBackground
+* Scrollbar control
+    * scrollbar.shadow
+    * scrollbarSlider.activeBackground
+    * scrollbarSlider.hoverBackground
+* Lists and trees
+    * list.dropBackground
+    * list.focusForeground
+    * list.hoverBackground
+    * list.hoverForeground
+    * list.inactiveSelectionBackground
+    * list.inactiveSelectionForeground
+    * list.inactiveFocusBackground
+    * list.invalidItemForeground
+    * list.errorForeground
+    * list.warningForeground
+    * listFilterWidget.background
+    * listFilterWidget.outline
+    * listFilterWidget.noMatchesOutline
+    * list.filterMatchBackground
+    * list.filterMatchBorder
+    * tree.indentGuidesStroke
+    * list.deemphasizedForeground
+* Git colors
+    * gitDecoration.addedResourceForeground
+    * gitDecoration.modifiedResourceForeground
+    * gitDecoration.deletedResourceForeground
+    * gitDecoration.untrackedResourceForeground
+    * gitDecoration.ignoredResourceForeground
+    * gitDecoration.submoduleResourceForeground
+
+#### Delete
+
+* None
+
+### -= Syntax colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* None
+
+#### Delete
+
+* None
+
 ## [v0.1.0](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/releases/tag/0.1.0)
 
 ### -= Workbench colors =-
