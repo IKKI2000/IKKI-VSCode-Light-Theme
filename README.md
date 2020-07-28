@@ -16,6 +16,7 @@ GitHub Repo: [https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/](https://gith
 <br>
 [![Marketplace](https://img.shields.io/visual-studio-marketplace/v/IKKI2000.ikki-vscode-light-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-light-theme)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/IKKI2000.ikki-vscode-light-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-light-theme)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/IKKI2000.ikki-vscode-light-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-light-theme)
 [![Ratings](https://img.shields.io/visual-studio-marketplace/stars/IKKI2000.ikki-vscode-light-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-light-theme)
 <br>
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-%20-fff.svg?logo=GitHub&style=social)](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/)

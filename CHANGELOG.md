@@ -4,6 +4,186 @@ All notable changes to the "IKKI-VSCode-Light-Theme" extension will be documente
 See [commits](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/commits/master) for more details.
 See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for workbench colors list.
 
+## [v0.3.0](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/releases/tag/0.3.0)
+
+### -= Workbench colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* Lists and trees
+    * list.activeSelectionBackground
+    * list.activeSelectionForeground
+    * list.dropBackground
+    * list.focusBackground
+    * list.focusForeground
+    * list.hoverBackground
+    * list.hoverForeground
+    * list.inactiveSelectionBackground
+    * list.inactiveSelectionForeground
+    * list.inactiveFocusBackground
+* Activity Bar
+    * activityBar.activeFocusBorder
+* Side Bar
+    * sideBar.dropBackground
+* Minimap
+    * minimapSlider.background
+    * minimapSlider.hoverBackground
+    * minimapSlider.activeBackground
+* Editor Groups & Tabs
+    * editorGroup.dropBackground
+    * editorGroupHeader.noTabsBackground
+    * editorGroupHeader.tabsBorder
+    * tab.border
+    * tab.unfocusedActiveBorderTop
+    * tab.inactiveBackground
+    * tab.unfocusedInactiveBackground
+    * tab.inactiveForeground
+    * tab.unfocusedActiveForeground
+    * tab.unfocusedInactiveForeground
+    * tab.hoverBackground
+    * tab.unfocusedHoverBackground
+    * tab.hoverBorder
+    * tab.unfocusedHoverBorder
+    * tab.inactiveModifiedBorder
+    * tab.unfocusedActiveModifiedBorder
+    * tab.unfocusedInactiveModifiedBorder
+* Panel colors
+    * panelSection.border
+    * panelSection.dropBackground
+    * panelSectionHeader.border
+* Status Bar colors
+    * statusBarItem.activeBackground
+    * statusBarItem.hoverBackground
+    * statusBarItem.prominentBackground
+    * statusBarItem.prominentHoverBackground
+* Title Bar colors
+    * titleBar.activeBackground
+    * titleBar.activeForeground
+    * titleBar.inactiveBackground
+    * titleBar.inactiveForeground
+* Menu Bar colors
+    * menu.foreground
+    * menu.background
+    * menu.separatorBackground
+    * menu.border
+* Notification colors
+    * notificationCenterHeader.background
+    * notifications.foreground
+    * notifications.background
+    * notifications.border
+    * notificationsErrorIcon.foreground
+    * notificationsWarningIcon.foreground
+    * notificationsInfoIcon.foreground
+* Quick picker colors
+    * quickInput.background
+* Integrated Terminal colors
+    * terminal.ansiBlack
+    * terminal.ansiBlue
+    * terminal.ansiBrightBlack
+    * terminal.ansiBrightBlue
+    * terminal.ansiBrightCyan
+    * terminal.ansiBrightGreen
+    * terminal.ansiBrightMagenta
+    * terminal.ansiBrightRed
+    * terminal.ansiBrightWhite
+    * terminal.ansiBrightYellow
+    * terminal.ansiCyan
+    * terminal.ansiGreen
+    * terminal.ansiMagenta
+    * terminal.ansiRed
+    * terminal.ansiWhite
+    * terminal.ansiYellow
+    * terminal.selectionBackground
+    * terminalCursor.background
+    * terminalCursor.foreground
+* Debug colors
+    * debugToolBar.background
+    * debugToolBar.border
+    * editor.stackFrameHighlightBackground
+    * editor.focusedStackFrameHighlightBackground
+    * debugView.exceptionLabelBackground
+    * debugView.stateLabelForeground
+    * debugView.stateLabelBackground
+    * debugTokenExpression.error
+* Welcome page colors
+    * walkThrough.embeddedEditorBackground
+* Git colors
+    * gitDecoration.addedResourceForeground
+    * gitDecoration.modifiedResourceForeground
+    * gitDecoration.deletedResourceForeground
+    * gitDecoration.untrackedResourceForeground
+    * gitDecoration.ignoredResourceForeground
+    * gitDecoration.submoduleResourceForeground
+* Settings Editor colors
+    * settings.modifiedItemIndicator
+* Breadcrumbs colors
+    * breadcrumb.focusForeground
+    * breadcrumb.activeSelectionForeground
+    * breadcrumbPicker.background
+* Snippets colors
+    * editor.snippetTabstopHighlightBackground
+    * editor.snippetTabstopHighlightBorder
+    * editor.snippetFinalTabstopHighlightBackground
+    * editor.snippetFinalTabstopHighlightBorder
+* Debug Icons colors
+    * debugIcon.breakpointDisabledForeground
+    * debugIcon.breakpointUnverifiedForeground
+    * debugIcon.breakpointCurrentStackframeForeground
+    * debugIcon.breakpointStackframeForeground
+    * debugIcon.startForeground
+    * debugIcon.pauseForeground
+    * debugIcon.stopForeground
+    * debugIcon.disconnectForeground
+    * debugIcon.restartForeground
+    * debugIcon.stepOverForeground
+    * debugIcon.stepIntoForeground
+    * debugIcon.stepOutForeground
+    * debugIcon.continueForeground
+    * debugIcon.stepBackForeground
+    * debugConsole.infoForeground
+    * debugConsole.warningForeground
+    * debugConsole.errorForeground
+    * debugConsole.sourceForeground
+* Notebook colors
+    * notebook.focusedEditorBorder
+    * notebookStatusSuccessIcon.foreground
+    * notebookStatusErrorIcon.foreground
+    * notebookStatusRunningIcon.foreground
+    * notebook.cellToolbarSeperator
+    * notebook.focusedCellBorder
+    * notebook.focusedCellShadow
+    * notebook.cellStatusBarItemHoverBackground
+    * notebookScrollbarSlider.hoverBackground
+    * notebookScrollbarSlider.activeBackground
+
+#### Delete
+
+* None
+
+### -= Syntax colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* Add
+    * markup.inserted
+* Modify
+    * markup.changed
+* Delete
+    * invalid
+    * markup.deleted
+
+#### Delete
+
+* None
+
 ## [v0.2.0](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/releases/tag/0.2.0)
 
 ### -= Workbench colors =-
