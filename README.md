@@ -48,7 +48,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ## 🔍 Looking for the Dark theme?
 
-If you are interested you can also have the IKKI VSCode Dark Theme available [here](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/).
+If you are interested you can also have the [IKKI VSCode Dark Theme](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme) available [here](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/).
 
 ## 🌟 What's new?
 
