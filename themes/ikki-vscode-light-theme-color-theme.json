@@ -120,6 +120,7 @@
 		"tab.unfocusedActiveBorder": "#fffcf4",
 		"tab.activeBorderTop": "#00c2d1",
 		"tab.unfocusedActiveBorderTop": "#00c2d199",
+		"tab.lastPinnedBorder": "#d9b6ac",
 		"tab.inactiveBackground": "#fffae8",
 		"tab.unfocusedInactiveBackground": "#fffae8",
 		"tab.inactiveForeground": "#c39b8f",
@@ -172,6 +173,7 @@
 		"editorIndentGuide.background": "#aaaaaa99",
 		"editorIndentGuide.activeBackground": "#ff9800",
 		"editorRuler.foreground": "#d9b6ac99",
+		"editor.onTypeRenameBackground": "#8d634a22",
 		"editorCodeLens.foreground": "#8d634a",
 		"editorLightBulb.foreground": "#ff9800",
 		"editorLightBulbAutoFix.foreground": "#8cc152",
@@ -368,8 +370,10 @@
 		"walkThrough.embeddedEditorBackground": "#fffae8",
 		"scm.providerBorder": "#d9b6ac",
 		"gitDecoration.addedResourceForeground": "#52c41a",
+		"gitDecoration.stageAddedResourceForeground": "#52c41a99",
 		"gitDecoration.modifiedResourceForeground": "#1890ff",
 		"gitDecoration.deletedResourceForeground": "#ff4d4f",
+		"gitDecoration.stageDeletedResourceForeground": "#ff4d4f99",
 		"gitDecoration.untrackedResourceForeground": "#faad14",
 		"gitDecoration.ignoredResourceForeground": "#aaaaaa",
 		"gitDecoration.conflictingResourceForeground": "#967adc",
@@ -466,7 +470,10 @@
 		"notebook.cellInsertionIndicator": "#00c2d1",
 		"notebookScrollbarSlider.background": "#cccccc99",
 		"notebookScrollbarSlider.hoverBackground": "#00c2d199",
-		"notebookScrollbarSlider.activeBackground": "#009aab99"
+		"notebookScrollbarSlider.activeBackground": "#009aab99",
+		"notebook.symbolHighlightBackground": "#8d634a55",
+		"notebook.rowHoverBackground": "#8d634a33",
+		"notebook.focusedRowBorder": "#8d634a66"
 	},
 	"tokenColors": [
 		{
