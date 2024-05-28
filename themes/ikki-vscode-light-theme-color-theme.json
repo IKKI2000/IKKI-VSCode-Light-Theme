@@ -2,6 +2,8 @@
 	"name": "IKKI-VSCode-Light-Theme",
 	"type": "light",
 	"colors": {
+		// Contrast colors
+		// Base colors
 		"focusBorder": "#ff9800",
 		"foreground": "#333333",
 		"widget.shadow": "#88888866",
@@ -9,8 +11,10 @@
 		"descriptionForeground": "#888888",
 		"errorForeground": "#e9573f",
 		"icon.foreground": "#8d634a",
+		// Window border
 		"window.activeBorder": "#d9b6ac",
 		"window.inactiveBorder": "#d9b6accc",
+		// Text colors
 		"textBlockQuote.background": "#fdf3bd",
 		"textBlockQuote.border": "#f7d82a",
 		"textCodeBlock.background": "#fffcf4",
@@ -18,6 +22,8 @@
 		"textLink.foreground": "#00c2d1",
 		"textPreformat.foreground": "#00b5e9",
 		"textSeparator.foreground": "#d9b6ac",
+		// Action colors
+		// Button control
 		"button.background": "#00c2d1",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#009aab",
@@ -27,10 +33,12 @@
 		"checkbox.background": "#ffffff",
 		"checkbox.foreground": "#00c2d1",
 		"checkbox.border": "#cccccc",
+		// Dropdown control
 		"dropdown.background": "#ffffff",
 		"dropdown.listBackground": "#ffffff",
 		"dropdown.border": "#cccccc",
 		"dropdown.foreground": "#333333",
+		// Input control
 		"input.background": "#ffffff",
 		"input.border": "#cccccc",
 		"input.foreground": "#333333",
@@ -47,13 +55,17 @@
 		"inputValidation.warningBackground": "#fdf3bd",
 		"inputValidation.warningForeground": "#9e880b",
 		"inputValidation.warningBorder": "#f7d82a",
+		// Scrollbar control
 		"scrollbar.shadow": "#d9b6ac",
 		"scrollbarSlider.activeBackground": "#009aab99",
 		"scrollbarSlider.background": "#cccccc99",
 		"scrollbarSlider.hoverBackground": "#00c2d199",
+		// Badge
 		"badge.foreground": "#ffffff",
 		"badge.background": "#00c2d1",
+		// Progress bar
 		"progressBar.background": "#00c2d1",
+		// Lists and trees
 		"list.activeSelectionBackground": "#8d634a33",
 		"list.activeSelectionForeground": "#8d634a",
 		"list.dropBackground": "#999999cc",
@@ -75,6 +87,7 @@
 		"list.filterMatchBorder": "#ff9800",
 		"tree.indentGuidesStroke": "#cccccc",
 		"list.deemphasizedForeground": "#cccccc",
+		// Activity Bar
 		"activityBar.background": "#fffcf4",
 		"activityBar.dropBorder": "#00c2d1",
 		"activityBar.foreground": "#8d634a",
@@ -85,6 +98,8 @@
 		"activityBar.activeBorder": "#00c2d1",
 		"activityBar.activeBackground": "#8d634a33",
 		"activityBar.activeFocusBorder": "#00c2d1",
+		// Profiles
+		// Side Bar
 		"sideBar.background": "#fffae8",
 		"sideBar.foreground": "#8d634a",
 		"sideBar.border": "#d9b6ac",
@@ -93,6 +108,7 @@
 		"sideBarSectionHeader.background": "#fffcf4",
 		"sideBarSectionHeader.foreground": "#8d634a",
 		"sideBarSectionHeader.border": "#d9b6ac",
+		// Minimap
 		"minimap.findMatchHighlight": "#ff9800",
 		"minimap.selectionHighlight": "#8d634a",
 		"minimap.errorHighlight": "#faa685",
@@ -104,6 +120,7 @@
 		"minimapGutter.addedBackground": "#bede0b",
 		"minimapGutter.modifiedBackground": "#84cef8",
 		"minimapGutter.deletedBackground": "#faa685",
+		// Editor Groups & Tabs
 		"editorGroup.border": "#d9b6ac",
 		"editorGroup.dropBackground": "#ffffff99",
 		"editorGroupHeader.noTabsBackground": "#fffae8",
@@ -137,6 +154,7 @@
 		"tab.unfocusedActiveModifiedBorder": "#00b5e999",
 		"tab.unfocusedInactiveModifiedBorder": "#84cef899",
 		"editorPane.background": "#fffcf4",
+		// Editor colors
 		"editor.background": "#fffcf4",
 		"editor.foreground": "#8d634a",
 		"editorLineNumber.foreground": "#999999",
@@ -213,12 +231,17 @@
 		"editorGutter.deletedBackground": "#faa685",
 		"editorGutter.commentRangeForeground": "#cccccc",
 		"editorGutter.foldingControlForeground": "#8d634a",
+		// Diff editor colors
 		"diffEditor.insertedTextBackground": "#bede0b22",
 		"diffEditor.insertedTextBorder": "#bede0b22",
 		"diffEditor.removedTextBackground": "#faa68522",
 		"diffEditor.removedTextBorder": "#faa68522",
 		"diffEditor.border": "#d9b6ac",
 		"diffEditor.diagonalFill": "#cccccc99",
+		// Chat colors
+		// Inline Chat colors
+		// Panel Chat colors
+		// Editor widget colors
 		"editorWidget.foreground": "#8d634a",
 		"editorWidget.background": "#fffcf4",
 		"editorWidget.border": "#00c2d1",
@@ -238,6 +261,7 @@
 		"editorMarkerNavigationError.background": "#ff4d4f",
 		"editorMarkerNavigationWarning.background": "#faad14",
 		"editorMarkerNavigationInfo.background": "#1890ff",
+		// Peek view colors
 		"peekView.border": "#d9b6ac",
 		"peekViewEditor.background": "#f5f7fa",
 		"peekViewEditorGutter.background": "#f5f7fa",
@@ -252,6 +276,7 @@
 		"peekViewTitle.background": "#d9b6ac33",
 		"peekViewTitleDescription.foreground": "#8d634a",
 		"peekViewTitleLabel.foreground": "#8d634a",
+		// Merge conflicts colors
 		"merge.currentHeaderBackground": "#00c2d166",
 		"merge.currentContentBackground": "#00c2d133",
 		"merge.incomingHeaderBackground": "#00b5e966",
@@ -262,6 +287,7 @@
 		"editorOverviewRuler.currentContentForeground": "#00c2d199",
 		"editorOverviewRuler.incomingContentForeground": "#00b5e999",
 		"editorOverviewRuler.commonContentForeground": "#99999999",
+		// Panel colors
 		"panel.background": "#fffae8",
 		"panel.border": "#d9b6ac",
 		"panel.dropBorder": "#00c2d1",
@@ -275,6 +301,7 @@
 		"panelSectionHeader.foreground": "#8d634a",
 		"panelSectionHeader.border": "#d9b6ac",
 		"imagePreview.border": "#cccccc",
+		// Status Bar colors
 		"statusBar.background": "#00c2d1",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.border": "#00c2d1",
@@ -291,11 +318,13 @@
 		"statusBarItem.prominentHoverBackground": "#00000011",
 		"statusBarItem.remoteBackground": "#f35800",
 		"statusBarItem.remoteForeground": "#ffffff",
+		// Title Bar colors
 		"titleBar.activeBackground": "#fffcf4",
 		"titleBar.activeForeground": "#8d634a",
 		"titleBar.inactiveBackground": "#fffae8",
 		"titleBar.inactiveForeground": "#c39b8f",
 		"titleBar.border": "#d9b6ac",
+		// Menu Bar colors
 		"menubar.selectionForeground": "#ffffff",
 		"menubar.selectionBackground": "#00c2d1",
 		"menubar.selectionBorder": "#00c2d1",
@@ -306,6 +335,8 @@
 		"menu.selectionBorder": "#00c2d1",
 		"menu.separatorBackground": "#d9b6ac",
 		"menu.border": "#fffcf4",
+		// Command Center colors
+		// Notification colors
 		"notificationCenter.border": "#d9b6ac",
 		"notificationCenterHeader.foreground": "#8d634a",
 		"notificationCenterHeader.background": "#fffae8",
@@ -317,16 +348,22 @@
 		"notificationsErrorIcon.foreground": "#ff4d4f",
 		"notificationsWarningIcon.foreground": "#faad14",
 		"notificationsInfoIcon.foreground": "#1890ff",
+		// Banner colors
+		// Extensions colors
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentBackground": "#00c2d1",
 		"extensionButton.prominentHoverBackground": "#f35800",
 		"extensionBadge.remoteBackground": "#00c2d1",
 		"extensionBadge.remoteForeground": "#ffffff",
+		// Quick picker colors
 		"pickerGroup.border": "#d9b6ac",
 		"pickerGroup.foreground": "#8d634a",
 		"quickInput.background": "#fffcf4",
 		"quickInput.foreground": "#8d634a",
 		"quickInputTitle.background": "#fffae8",
+		// Keybinding label colors
+		// Keyboard shortcut table colors
+		// Integrated Terminal colors
 		"terminal.background": "#fffcf4",
 		"terminal.border": "#d9b6ac",
 		"terminal.foreground": "#8d634a",
@@ -349,6 +386,7 @@
 		"terminal.selectionBackground": "#00000022",
 		"terminalCursor.background": "#ffffff",
 		"terminalCursor.foreground": "#00c2d1",
+		// Debug colors
 		"debugToolBar.background": "#fffae8",
 		"debugToolBar.border": "#fffae8",
 		"editor.stackFrameHighlightBackground": "#8d634a22",
@@ -364,11 +402,13 @@
 		"debugTokenExpression.boolean": "#da4453",
 		"debugTokenExpression.number": "#da4453",
 		"debugTokenExpression.error": "#e9573f",
+		// Testing colors
+		// Welcome page colors
 		"welcomePage.background": "#fffcf4",
 		"welcomePage.buttonBackground": "#8d634a33",
 		"welcomePage.buttonHoverBackground": "#8d634a22",
 		"walkThrough.embeddedEditorBackground": "#fffae8",
-		"scm.providerBorder": "#d9b6ac",
+		// Git colors
 		"gitDecoration.addedResourceForeground": "#52c41a",
 		"gitDecoration.stageAddedResourceForeground": "#52c41a99",
 		"gitDecoration.modifiedResourceForeground": "#1890ff",
@@ -378,6 +418,7 @@
 		"gitDecoration.ignoredResourceForeground": "#aaaaaa",
 		"gitDecoration.conflictingResourceForeground": "#967adc",
 		"gitDecoration.submoduleResourceForeground": "#d770ad",
+		// Settings Editor colors
 		"settings.headerForeground": "#8d634a",
 		"settings.modifiedItemIndicator": "#00b5e9",
 		"settings.dropdownBackground": "#ffffff",
@@ -393,15 +434,18 @@
 		"settings.numberInputBackground": "#ffffff",
 		"settings.numberInputForeground": "#333333",
 		"settings.numberInputBorder": "#cccccc",
+		// Breadcrumbs colors
 		"breadcrumb.foreground": "#8d634a",
 		"breadcrumb.background": "#fffcf4",
 		"breadcrumb.focusForeground": "#00c2d1",
 		"breadcrumb.activeSelectionForeground": "#00c2d1",
 		"breadcrumbPicker.background": "#fffae8",
+		// Snippets colors
 		"editor.snippetTabstopHighlightBackground": "#00000000",
 		"editor.snippetTabstopHighlightBorder": "#00b5e9",
 		"editor.snippetFinalTabstopHighlightBackground": "#00000000",
 		"editor.snippetFinalTabstopHighlightBorder": "#00c2d1",
+		// Symbol Icons colors
 		"symbolIcon.arrayForeground": "#aab2bd",
 		"symbolIcon.booleanForeground": "#da4453",
 		"symbolIcon.classForeground": "#37bc9b",
@@ -435,6 +479,7 @@
 		"symbolIcon.typeParameterForeground": "#d770ad",
 		"symbolIcon.unitForeground": "#8cc152",
 		"symbolIcon.variableForeground": "#37bc9b",
+		// Debug Icons colors
 		"debugIcon.breakpointForeground": "#f35800",
 		"debugIcon.breakpointDisabledForeground": "#aaaaaa",
 		"debugIcon.breakpointUnverifiedForeground": "#999999",
@@ -455,6 +500,7 @@
 		"debugConsole.errorForeground": "#ff4d4f",
 		"debugConsole.sourceForeground": "#52c41a",
 		"debugConsoleInputIcon.foreground": "#8d634a",
+		// Notebook colors
 		"notebook.cellBorderColor": "#d9b6ac",
 		"notebook.focusedEditorBorder": "#ff9800",
 		"notebookStatusSuccessIcon.foreground": "#52c41a",
@@ -473,7 +519,14 @@
 		"notebookScrollbarSlider.activeBackground": "#009aab99",
 		"notebook.symbolHighlightBackground": "#8d634a55",
 		"notebook.rowHoverBackground": "#8d634a33",
-		"notebook.focusedRowBorder": "#8d634a66"
+		"notebook.focusedRowBorder": "#8d634a66",
+		// Chart colors
+		// Ports Colors
+		// Comments View colors
+		// Action Bar colors
+		// Simple Find Widget
+		// SCM
+		"scm.providerBorder": "#d9b6ac"
 	},
 	"tokenColors": [
 		{
