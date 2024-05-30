@@ -8,11 +8,14 @@
 		// Base colors
 		"focusBorder": "#ff9800",
 		"foreground": "#333333",
+		"disabledForeground": "#33333366",
+		"widget.border": "#cccccc",
 		"widget.shadow": "#88888866",
-		"selection.background": "#cccccc",
+		"selection.background": "#cccccc88",
 		"descriptionForeground": "#888888",
 		"errorForeground": "#e9573f",
 		"icon.foreground": "#8d634a",
+		"sash.hoverBorder": "#cccccc",
 		// Window border
 		"window.activeBorder": "#d9b6ac",
 		"window.inactiveBorder": "#d9b6accc",
