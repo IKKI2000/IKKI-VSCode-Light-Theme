@@ -29,6 +29,9 @@
 		"textPreformat.background": "#cccccc99",
 		"textSeparator.foreground": "#d9b6ac",
 		// Action colors
+		"toolbar.hoverBackground": "#8d634a33",
+		"toolbar.hoverOutline": "#8d634a33",
+		"toolbar.activeBackground": "#8d634a33",
 		// Button control
 		"button.background": "#00c2d1",
 		"button.foreground": "#ffffff",
