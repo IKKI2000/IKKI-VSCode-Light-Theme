@@ -35,6 +35,8 @@
 		// Button control
 		"button.background": "#00c2d1",
 		"button.foreground": "#ffffff",
+		"button.border": "#00c2d100",
+		"button.separator": "#ffffff66",
 		"button.hoverBackground": "#009aab",
 		"button.secondaryForeground": "#8d634a",
 		"button.secondaryBackground": "#8d634a33",
@@ -42,6 +44,8 @@
 		"checkbox.background": "#ffffff",
 		"checkbox.foreground": "#00c2d1",
 		"checkbox.border": "#cccccc",
+		"checkbox.selectBackground": "#ffffff",
+		"checkbox.selectBorder": "#cccccc",
 		// Dropdown control
 		"dropdown.background": "#ffffff",
 		"dropdown.listBackground": "#ffffff",
