@@ -130,6 +130,8 @@
 		"activityBarTop.background": "#fffcf4",
 		"activityBarTop.activeBackground": "#8d634a33",
 		// Profiles
+		"profileBadge.background": "#00c2d1",
+		"profileBadge.foreground": "#ffffff",
 		// Side Bar
 		"sideBar.background": "#fffae8",
 		"sideBar.foreground": "#8d634a",
