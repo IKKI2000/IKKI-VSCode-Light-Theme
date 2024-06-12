@@ -141,6 +141,7 @@
 		"sideBarSectionHeader.background": "#fffcf4",
 		"sideBarSectionHeader.foreground": "#8d634a",
 		"sideBarSectionHeader.border": "#d9b6ac",
+		"sideBarActivityBarTop.border": "#d9b6ac",
 		// Minimap
 		"minimap.findMatchHighlight": "#ff9800",
 		"minimap.selectionHighlight": "#8d634a",
