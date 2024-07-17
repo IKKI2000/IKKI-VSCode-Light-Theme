@@ -335,10 +335,10 @@
 		"editorCommentsWidget.rangeActiveBackground": "#8d634a33",
 		"editorCommentsWidget.replyInputBackground": "#ffffff",
 		// Diff editor colors
-		"diffEditor.insertedTextBackground": "#bede0b22",
-		"diffEditor.insertedTextBorder": "#bede0b22",
-		"diffEditor.removedTextBackground": "#faa68522",
-		"diffEditor.removedTextBorder": "#faa68522",
+		"diffEditor.insertedTextBackground": "#bede0b33",
+		"diffEditor.insertedTextBorder": "#bede0b44",
+		"diffEditor.removedTextBackground": "#faa68533",
+		"diffEditor.removedTextBorder": "#faa68544",
 		"diffEditor.border": "#d9b6ac",
 		"diffEditor.diagonalFill": "#cccccc99",
 		// Chat colors
