@@ -347,6 +347,10 @@
 		"diffEditorGutter.removedLineBackground": "#faa68544",
 		"diffEditorOverview.insertedForeground": "#bede0b",
 		"diffEditorOverview.removedForeground": "#faa685",
+		"diffEditor.unchangedRegionBackground": "#fffcf4",
+		"diffEditor.unchangedRegionForeground": "#8d634a",
+		"diffEditor.unchangedRegionShadow": "#88888866",
+		"diffEditor.unchangedCodeBackground": "#fffae8",
 		// Chat colors
 		// Inline Chat colors
 		// Panel Chat colors
