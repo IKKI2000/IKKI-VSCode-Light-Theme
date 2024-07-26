@@ -353,6 +353,9 @@
 		"diffEditor.unchangedCodeBackground": "#fffae8",
 		"diffEditor.move.border": "#cccccc",
 		"diffEditor.moveActive.border": "#d9b6ac",
+		"multiDiffEditor.headerBackground": "#fffae8",
+		"multiDiffEditor.background": "#fffcf4",
+		"multiDiffEditor.border": "#d9b6ac",
 		// Chat colors
 		// Inline Chat colors
 		// Panel Chat colors
