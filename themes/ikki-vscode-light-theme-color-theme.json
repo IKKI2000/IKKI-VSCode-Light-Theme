@@ -364,6 +364,10 @@
 		"chat.avatarBackground": "#00c2d1",
 		"chat.avatarForeground": "#ffffff",
 		// Inline Chat colors
+		"inlineChat.background": "#fffae8",
+		"inlineChat.border": "#d9b6ac",
+		"inlineChat.shadow": "#88888866",
+		"inlineChat.regionHighlight": "#fffcf488",
 		// Panel Chat colors
 		// Editor widget colors
 		"editorWidget.foreground": "#8d634a",
