@@ -409,6 +409,9 @@
 		"editorMarkerNavigationError.background": "#ff4d4f",
 		"editorMarkerNavigationWarning.background": "#faad14",
 		"editorMarkerNavigationInfo.background": "#1890ff",
+		"editorMarkerNavigationError.headerBackground": "#ff4d4f88",
+		"editorMarkerNavigationWarning.headerBackground": "#faad1488",
+		"editorMarkerNavigationInfo.headerBackground": "#1890ff88",
 		// Peek view colors
 		"peekView.border": "#d9b6ac",
 		"peekViewEditor.background": "#f5f7fa",
