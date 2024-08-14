@@ -443,6 +443,13 @@
 		"editorOverviewRuler.commentUnresolvedForeground": "#cccccc99",
 		"mergeEditor.change.background": "#84cef866",
 		"mergeEditor.change.word.background": "#84cef888",
+		"mergeEditor.conflict.unhandledUnfocused.border": "#ff4d4f",
+		"mergeEditor.conflict.unhandledFocused.border": "#ff9800",
+		"mergeEditor.conflict.handledUnfocused.border": "#52c41a",
+		"mergeEditor.conflict.handledFocused.border": "#ff9800",
+		"mergeEditor.conflict.handled.minimapOverViewRuler": "#52c41a",
+		"mergeEditor.conflict.unhandled.minimapOverViewRuler": "#ff4d4f",
+		"mergeEditor.conflictingLines.background": "#f7d82a66",
 		// Panel colors
 		"panel.background": "#fffae8",
 		"panel.border": "#d9b6ac",
