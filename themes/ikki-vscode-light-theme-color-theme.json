@@ -494,6 +494,10 @@
 		"statusBarItem.errorForeground": "#ffffff",
 		"statusBarItem.errorHoverBackground": "#00000022",
 		"statusBarItem.errorHoverForeground": "#ffffffcc",
+		"statusBarItem.warningBackground": "#faad14",
+		"statusBarItem.warningForeground": "#ffffff",
+		"statusBarItem.warningHoverBackground": "#00000022",
+		"statusBarItem.warningHoverForeground": "#ffffffcc",
 		// Title Bar colors
 		"titleBar.activeBackground": "#fffcf4",
 		"titleBar.activeForeground": "#8d634a",
