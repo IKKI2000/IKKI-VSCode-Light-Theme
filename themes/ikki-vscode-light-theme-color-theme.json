@@ -545,6 +545,9 @@
 		"notificationsWarningIcon.foreground": "#faad14",
 		"notificationsInfoIcon.foreground": "#1890ff",
 		// Banner colors
+		"banner.background": "#8d634a33",
+		"banner.foreground": "#ff9800",
+		"banner.iconForeground": "#8d634a",
 		// Extensions colors
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentBackground": "#00c2d1",
