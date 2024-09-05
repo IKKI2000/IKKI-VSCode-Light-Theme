@@ -552,6 +552,10 @@
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentBackground": "#00c2d1",
 		"extensionButton.prominentHoverBackground": "#f35800",
+		"extensionButton.background": "#00c2d1",
+		"extensionButton.foreground": "#ffffff",
+		"extensionButton.hoverBackground": "#f35800",
+		"extensionButton.separator": "#ffffff66",
 		"extensionBadge.remoteBackground": "#00c2d1",
 		"extensionBadge.remoteForeground": "#ffffff",
 		// Quick picker colors
