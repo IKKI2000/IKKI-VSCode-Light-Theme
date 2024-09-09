@@ -567,6 +567,9 @@
 		"pickerGroup.foreground": "#8d634a",
 		"quickInput.background": "#fffcf4",
 		"quickInput.foreground": "#8d634a",
+		"quickInputList.focusBackground": "#8d634a33",
+		"quickInputList.focusForeground": "#8d634a",
+		"quickInputList.focusIconForeground": "#8d634a",
 		"quickInputTitle.background": "#fffae8",
 		// Keybinding label colors
 		// Keyboard shortcut table colors
