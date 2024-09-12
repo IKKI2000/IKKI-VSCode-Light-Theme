@@ -600,6 +600,13 @@
 		"terminal.ansiWhite": "#8cc152",
 		"terminal.ansiYellow": "#ff9800",
 		"terminal.selectionBackground": "#00000022",
+		"terminal.selectionForeground": "#000000",
+		"terminal.inactiveSelectionBackground": "#00000011",
+		"terminal.findMatchBackground": "#ff980055",
+		"terminal.findMatchBorder": "#ff980099",
+		"terminal.findMatchHighlightBackground": "#ff980022",
+		"terminal.findMatchHighlightBorder": "#ff980066",
+		"terminal.hoverHighlightBackground": "#00c2d166",
 		"terminalCursor.background": "#ffffff",
 		"terminalCursor.foreground": "#00c2d1",
 		// Debug colors
