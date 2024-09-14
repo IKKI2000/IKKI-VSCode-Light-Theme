@@ -623,6 +623,8 @@
 		"debugToolBar.border": "#fffae8",
 		"editor.stackFrameHighlightBackground": "#8d634a22",
 		"editor.focusedStackFrameHighlightBackground": "#8d634a33",
+		"editor.inlineValuesForeground": "#8d634a",
+		"editor.inlineValuesBackground": "#8d634a66",
 		"debugView.exceptionLabelForeground": "#ffffff",
 		"debugView.exceptionLabelBackground": "#e9573f",
 		"debugView.stateLabelForeground": "#ffffff",
