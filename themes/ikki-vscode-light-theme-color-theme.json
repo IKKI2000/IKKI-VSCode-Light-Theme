@@ -669,9 +669,13 @@
 		"testing.coverCountBadgeForeground": "#ffffff",
 		// Welcome page colors
 		"welcomePage.background": "#fffcf4",
-		"welcomePage.buttonBackground": "#8d634a33",
-		"welcomePage.buttonHoverBackground": "#8d634a22",
+		"welcomePage.progress.background": "#8d634a33",
+		"welcomePage.progress.foreground": "#00c2d1",
+		"welcomePage.tileBackground": "#8d634a22",
+		"welcomePage.tileHoverBackground": "#8d634a33",
+		"welcomePage.tileBorder": "#d9b6ac",
 		"walkThrough.embeddedEditorBackground": "#fffae8",
+		"walkthrough.stepTitle.foreground": "#ff9800",
 		// Git colors
 		"gitDecoration.addedResourceForeground": "#52c41a",
 		"gitDecoration.stageAddedResourceForeground": "#52c41a99",
