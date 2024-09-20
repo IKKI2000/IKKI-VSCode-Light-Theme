@@ -678,12 +678,13 @@
 		"walkthrough.stepTitle.foreground": "#ff9800",
 		// Git colors
 		"gitDecoration.addedResourceForeground": "#52c41a",
-		"gitDecoration.stageAddedResourceForeground": "#52c41a99",
 		"gitDecoration.modifiedResourceForeground": "#1890ff",
 		"gitDecoration.deletedResourceForeground": "#ff4d4f",
-		"gitDecoration.stageDeletedResourceForeground": "#ff4d4f99",
-		"gitDecoration.untrackedResourceForeground": "#faad14",
-		"gitDecoration.ignoredResourceForeground": "#aaaaaa",
+		"gitDecoration.renamedResourceForeground": "#faad14",
+		"gitDecoration.stageModifiedResourceForeground": "#1890ff",
+		"gitDecoration.stageDeletedResourceForeground": "#ff4d4f",
+		"gitDecoration.untrackedResourceForeground": "#52c41a",
+		"gitDecoration.ignoredResourceForeground": "#8d634a66",
 		"gitDecoration.conflictingResourceForeground": "#967adc",
 		"gitDecoration.submoduleResourceForeground": "#d770ad",
 		// Settings Editor colors
