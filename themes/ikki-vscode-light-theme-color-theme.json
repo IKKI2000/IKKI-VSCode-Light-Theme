@@ -812,6 +812,8 @@
 		// Ports Colors
 		"ports.iconRunningProcessForeground": "#1890ff",
 		// Comments View colors
+		"commentsView.resolvedIcon": "#8d634a",
+		"commentsView.unresolvedIcon": "#c39b8f",
 		// Action Bar colors
 		// Simple Find Widget
 		// SCM
