@@ -815,6 +815,7 @@
 		"commentsView.resolvedIcon": "#8d634a",
 		"commentsView.unresolvedIcon": "#c39b8f",
 		// Action Bar colors
+		"actionBar.toggledBackground": "#8d634a22",
 		// Simple Find Widget
 		// SCM
 		"scm.providerBorder": "#d9b6ac"
